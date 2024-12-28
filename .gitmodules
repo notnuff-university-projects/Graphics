@@ -1,0 +1,9 @@
+[submodule "custom-text-shader-opengl"]
+	path = custom-text-shader-opengl
+	url = git@github.com:notnuff-university-projects/graphics-lab-1.git
+[submodule "recursive-figures"]
+	path = recursive-figures
+	url = git@github.com:notnuff-university-projects/graphics-lab-2.git
+[submodule "fractals"]
+	path = fractals
+	url = git@github.com:notnuff-university-projects/graphics-lab-3.git
